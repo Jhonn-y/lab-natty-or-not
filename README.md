@@ -23,7 +23,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Criação de uma imagem com representação de um sentimento ;)
 
 ## 📒 Descrição
-Pensei em analisár como uma IA consegueria representar algum sentimento humano em uma imagem, então pesquisei em alguns sites de ia generativa de imagem para pegar uma que melhor chegaria nesse ponto 
+Pensei em analisár como uma IA consegueria representar algum sentimento humano em uma imagem,
+ então pesquisei em alguns sites de ia generativa de imagem para pegar uma que melhor chegaria nesse ponto 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
